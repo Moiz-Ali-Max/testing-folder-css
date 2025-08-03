@@ -1,0 +1,52 @@
+/* Adding Border in h2 tag */
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h2 {
+    background-color: aqua;
+    /* border: solid;
+    border-width: 2px;
+    border-color: brown; */
+    /* border: solid 5px brown; */
+    /* now adding golaii in border text-box-edge */
+    /* border-radius: 10px; */
+    /* border-top-left-radius: 5px; */
+    /* Now adding border in one direction */
+    /* border-top: solid red 5px;
+    border-left: solid black 10px; */
+    border: solid black 5px;
+    border-radius: 5px;
+    width: 240px;
+    height: 200px;
+}
+#id1 {
+    background-color: yellow;
+    border: solid black 5px;
+    border-radius: 5px;
+    width: 240px;
+    /* height: 220px; */
+    /* padding: 20px; */
+    /* margin: 50px; */
+}
+.class1 {
+    background-color: greenyellow;
+    border: solid black 5px;
+    border-radius: 5px;
+    /* width: 240px;
+    height: 210px; */
+    /* padding-left: 10px;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 40px; */
+    /* padding: 15px 25px 35px 45px; */
+    /* padding: 30px 40px;
+    margin-top: 100px;
+    margin-right: 40px; */
+}
+span{
+    background-color: bisque;
+    border: solid black 5px;
+    border-radius: 5px;
+}

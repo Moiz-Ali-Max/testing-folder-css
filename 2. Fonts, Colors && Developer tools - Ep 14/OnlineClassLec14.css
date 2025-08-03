@@ -1,0 +1,30 @@
+/* p{
+    font-size: 50px;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    line-height: 90px;
+} */
+
+p{
+    font-family: "Playwrite PL", cursive;
+}
+#firstPara{
+    color: lightblue;
+}
+
+#secondPara{
+    color: rgb(131, 44, 148);
+}
+
+#thirdPara{
+    color: rgba(100, 12, 23, 0.4);
+}
+
+.firstClass{
+    color: #ffab23;
+}
+
+#fourPara{
+    color: hsl(50, 50%, 30%);
+}
